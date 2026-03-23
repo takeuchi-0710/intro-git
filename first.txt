@@ -3,6 +3,7 @@ Gitの練習
 ・git add
 ・git commit
 ・git rm
+・git status
 
 :q!:保存せずに終了
 :wq：確定して終了
