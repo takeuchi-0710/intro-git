@@ -4,6 +4,7 @@ Gitの練習
 ・git commit
 ・git rm
 ・git status
+・git diff
 
 :q!:保存せずに終了
 :wq：確定して終了
